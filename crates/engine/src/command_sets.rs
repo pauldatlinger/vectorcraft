@@ -94,6 +94,7 @@ const WAIT_FOR_TOOL_EDIT: &[&str] = &[
     "prefs.set",
     "prefs.reset",
     "text.addFontFiles",
+    "text.addFonts",
 ];
 
 /// Does command `id`, run on its own, first apply the edit the active tool is computing on
